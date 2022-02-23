@@ -1,5 +1,6 @@
 # How to solve conflicts
-## testing random changes
+# test random changes
 
 following the exercises
 vsdgfsfgit 
+changes
